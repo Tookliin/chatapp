@@ -1,7 +1,7 @@
 <template>
-<div class="contact">
+<div class="container-fluid col-12 col-md-12">
   <div class="">
-    <section class="col-12 col-md-12"> 
+    <section>
       <mdb-container >
     <mdb-row>
       <mdb-col class="col-lg-6 col-md-8 col-sm-12 mx-auto ">

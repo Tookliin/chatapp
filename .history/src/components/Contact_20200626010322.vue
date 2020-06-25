@@ -1,8 +1,6 @@
 <template>
-<div class="contact">
-  <div class="">
-    <section class="col-12 col-md-12"> 
-      <mdb-container >
+
+<mdb-container >
     <mdb-row>
       <mdb-col class="col-lg-6 col-md-8 col-sm-12 mx-auto ">
         
@@ -11,7 +9,12 @@
             <p style="display: none" class="hidden">
     <label>Dont Fell This Out If you Are Human: <input name="bot-field" /></label>
   </p>
-    <p class="h4 text-center mb-4">Please Contact</p>
+    <mdb-card >
+					
+					<mdb-card-body class="text-center" cascade>
+						<mdb-card-text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, ex, recusandae. mdbIconcere modi sunt, quod quibusdam dignissimos neque rem nihil ratione est placeat vel, natus non quos laudantium veritatis sequi.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commod</mdb-card-text>
+					</mdb-card-body>
+				</mdb-card>
     <div class="grey-text">
       <mdb-input v-model="form.name" name="name" label="name" icon="user" group type="text" validate error="wrong" success="right"/>
       <mdb-input v-model="form.email"  name="email"  label="email" icon="envelope" group type="email" validate error="wrong" success="right"/>
@@ -28,17 +31,12 @@
       
     </mdb-row>
   </mdb-container>
-    </section>
-  </div>
   <!-- Material form contact -->
 
   <!-- Material form contact -->
-</div>
-
-
 </template>
 <script>
-  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
+  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol,mdbCard } from 'mdbvue';
   export default {
     name: "Contact",
 
@@ -50,7 +48,7 @@
       mdbRow, 
       mdbCol,
       mdbIcon,
-      
+      mdbCard,
 			// mdbCardImage,
 			// mdbCardHeader,
 			// mdbCardBody,

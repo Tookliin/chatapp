@@ -1,17 +1,21 @@
 <template>
-<div class="contact">
-  <div class="">
-    <section class="col-12 col-md-12"> 
-      <mdb-container >
+
+<mdb-container >
     <mdb-row>
       <mdb-col class="col-lg-6 col-md-8 col-sm-12 mx-auto ">
-        
+
+<mdb-modal :show="header" @close="header = false" warning>
+      <mdb-modal-header class="text-center">
+        <mdb-modal-title tag="h4" bold class="w-100">Subscribe</mdb-modal-title>
+      
+      </mdb-modal-header>
+</mdb-modal>
         
           <form @submit.prevent="submitForm" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" class="w-100 py-5">
             <p style="display: none" class="hidden">
     <label>Dont Fell This Out If you Are Human: <input name="bot-field" /></label>
   </p>
-    <p class="h4 text-center mb-4">Please Contact</p>
+    <p class="h4 text-center mb-4">Write to us</p>
     <div class="grey-text">
       <mdb-input v-model="form.name" name="name" label="name" icon="user" group type="text" validate error="wrong" success="right"/>
       <mdb-input v-model="form.email"  name="email"  label="email" icon="envelope" group type="email" validate error="wrong" success="right"/>
@@ -28,17 +32,12 @@
       
     </mdb-row>
   </mdb-container>
-    </section>
-  </div>
   <!-- Material form contact -->
 
   <!-- Material form contact -->
-</div>
-
-
 </template>
 <script>
-  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
+  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol, mdbModal } from 'mdbvue';
   export default {
     name: "Contact",
 
@@ -50,16 +49,7 @@
       mdbRow, 
       mdbCol,
       mdbIcon,
-      
-			// mdbCardImage,
-			// mdbCardHeader,
-			// mdbCardBody,
-			// mdbCardTitle,
-			// mdbCardText,
-			// mdbCardFooter,
-			// mdbCardUp,
-			// mdbCardAvatar,
-			// mdbCardGroup,
+      mdbModal
     },
         data() {
       return {

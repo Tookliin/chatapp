@@ -1,8 +1,6 @@
 <template>
-<div class="contact">
-  <div class="">
-    <section class="col-12 col-md-12"> 
-      <mdb-container >
+<div class="container-fluid col-12 col-md-12">
+  <mdb-container >
     <mdb-row>
       <mdb-col class="col-lg-6 col-md-8 col-sm-12 mx-auto ">
         
@@ -28,8 +26,6 @@
       
     </mdb-row>
   </mdb-container>
-    </section>
-  </div>
   <!-- Material form contact -->
 
   <!-- Material form contact -->

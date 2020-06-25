@@ -1,8 +1,6 @@
 <template>
-<div class="contact">
-  <div class="">
-    <section class="col-12 col-md-12"> 
-      <mdb-container >
+
+<mdb-container >
     <mdb-row>
       <mdb-col class="col-lg-6 col-md-8 col-sm-12 mx-auto ">
         
@@ -28,17 +26,12 @@
       
     </mdb-row>
   </mdb-container>
-    </section>
-  </div>
   <!-- Material form contact -->
 
   <!-- Material form contact -->
-</div>
-
-
 </template>
 <script>
-  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
+  import { mdbInput, mdbIcon, mdbBtn, mdbTextarea, mdbContainer, mdbRow, mdbCol,mdbCard } from 'mdbvue';
   export default {
     name: "Contact",
 
@@ -50,7 +43,7 @@
       mdbRow, 
       mdbCol,
       mdbIcon,
-      
+      mdbCard,
 			// mdbCardImage,
 			// mdbCardHeader,
 			// mdbCardBody,
