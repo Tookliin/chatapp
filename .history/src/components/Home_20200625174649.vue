@@ -10,7 +10,7 @@
                   <h2 class="p">
                     <span class="home-span"> Hi, </span> I am Makhosandile Skuni
                   </h2>
-                  <p class="mb-5">
+                  <p class="mt-3  ">
                     I am a Software developer, with Data and Business Analyst
                     skills
                   </p>

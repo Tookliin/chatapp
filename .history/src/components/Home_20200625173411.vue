@@ -6,12 +6,12 @@
           <div class="text-box">
             <div class="Home container">
               <div class="row">
-                <div class="col-md-8 offset-md-5 pb-5">
-                  <h2 class="p">
+                <div class="col-md-8 offset-md-5">
+                  <h2>
                     <span class="home-span"> Hi, </span> I am Makhosandile Skuni
                   </h2>
-                  <p class="mb-5">
-                    I am a Software developer, with Data and Business Analyst
+                  <p class="mt-3  ">
+                    I am a Software developr, with Data and Business Analyst
                     skills
                   </p>
                   <router-link
