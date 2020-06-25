@@ -1,0 +1,103 @@
+nav {
+  background-image: linear-gradient(
+    171.8deg,
+    rgba(5, 111, 146, 1) 13.5%,
+    rgba(6, 57, 84, 1) 78.6%
+  );
+}
+
+.view {
+  background: url("https://mdbootstrap.com/img/Photos/Others/img (42).jpg")
+    no-repeat center center;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .view {
+    overflow: visible;
+    margin-top: -56px;
+  }
+}
+.navbar {
+  z-index: 1;
+}
+.navbar {
+  background-color: transparent;
+}
+.top-nav-collapse {
+  background-color: #4285f4;
+}
+@media only screen and (max-width: 768px) {
+  .navbar {
+    background-color: #4285f4;
+  }
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+header {
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translateY(-50%);
+  color: beige;
+}
+.btn {
+  border-radius: 40px;
+}
+
+.text-box h1 {
+  font-family: cursive;
+  font-size: 5rem;
+}
+
+.text-box p {
+  font-size: 2rem;
+  font-weight: lighter;
+}
+.submit {
+  color: var(--dark);
+}
+
+/* .change {
+  color: var(--dark);
+  background-image: #08aeea;
+  background-image: -webkit-linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  background-image: -moz-linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  background-image: -o-linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+} */
+
+.container-fluid {
+  /* background-image: url("/images/d.jpg"); */
+
+  background-image: linear-gradient(
+    171.8deg,
+    rgba(5, 111, 146, 1) 13.5%,
+    rgba(6, 57, 84, 1) 78.6%
+  );
+}
+.btn-outline-secondary {
+  color: rgb(197, 183, 183);
+  font-weight: bold;
+}
+
+/* Pages Start Here */
+.Home {
+  align-items: center;
+}
+.home-span {
+  color: black;
+  flex-direction: left;
+  font-size: 55px;
+}
