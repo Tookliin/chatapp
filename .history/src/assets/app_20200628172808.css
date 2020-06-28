@@ -1,0 +1,107 @@
+.view {
+    background-color: #FBAB7E;
+background-image: -webkit-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+background-image: -moz-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+background-image: -o-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+    background-size: cover;
+    height: 100%;
+  }
+
+  .navbar-brand{
+    font-size: 150%;
+    font-weight: bold;
+   
+   
+  }
+
+  .fab{
+    size: 80px;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    
+  }
+
+  .navbar .dropdown-menu a:hover {
+    color: inherit !important;
+  }
+
+header {
+  min-height: 80vh;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translateY(-50%);
+  color: beige;
+}
+.btn {
+  border-radius: 40px;
+}
+
+.text-box h1 {
+  font-family: cursive;
+  font-size: 5rem;
+}
+
+.text-box p {
+  font-size: 2rem;
+  font-weight: lighter;
+}
+.submit {
+  color: var(--dark);
+}
+
+.container-fluid {
+  background-image: linear-gradient(
+    171.8deg,
+    rgba(5, 111, 146, 1) 13.5%,
+    rgba(6, 57, 84, 1) 78.6%
+  );
+}
+
+.card-container{
+  background-image: linear-gradient( 108.1deg,  rgba(167,220,225,1) 11.2%, rgba(217,239,242,1) 88.9% );
+}
+.my-card {
+  height: 450px;
+}
+.card-up{
+  height:60px;
+}
+.btn-outline-secondary {
+  color: rgb(197, 183, 183);
+  font-weight: bold;
+}
+
+/* Pages Start Here */
+
+.contact{
+  background-image: linear-gradient( 90.4deg,  rgba(255,220,163,1) 21.2%, rgba(129,255,239,1) 90.7% );
+  background-size: cover;
+    height: 100%;
+
+}
+
+.projects {
+  background-image: radial-gradient( circle 343px at 46.3% 47.5%,  rgba(242,242,242,1) 0%, rgba(241,241,241,1) 72.9% );
+  background-size: cover;
+  height: 100%;
+
+}
+
+.dude {
+  background-image: url("../assets/images/b.png");
+  background-size: cover;
+}
+.card-body{
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,
+    rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% );
+  margin: 0px 50px 0px 50px;
+}
