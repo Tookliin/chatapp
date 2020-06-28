@@ -10,9 +10,6 @@
     <!--Intro Section-->
     <section class="view intro-2">
         <div class="mask rgba-gradient">
-
-
-          
           <div class="container h-100 d-flex justify-content-center align-items-center">
 
             <!--Grid row-->
@@ -25,13 +22,12 @@
                   <div class="card-body">
 
                     <h2 class="font-weight-bold my-4 text-center mb-5 mt-4 font-weight-bold">
-                      <strong>Get in touch</strong>
+                      <strong>REGISTER</strong>
                     </h2>
                     <hr>
 
                     <!--Grid row-->
                     <div class="row mt-5">
-     
 
                       <!--Grid column-->
                       <div class="col-md-6 ml-lg-5 ml-md-3">
@@ -43,16 +39,10 @@
                           </div>
                           <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <strong>Education</strong>
+                              <strong>Safety</strong>
                             </h4>
-                            <ul>
-                              <li>I studied Information Technology</li>
-                               <li>Project Management & Business Admin</li>
-                              <li>I Did online courses with udemy including,</li>
-                              <li>Data Science, Complete Bootcamp </li>
-                              <li>Software Engineering</li>
-                             
-                            </ul>
+                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
+                              minima assumenda deleniti hic.</p>
                           </div>
                         </div>
                         <!--Grid row-->
@@ -64,14 +54,10 @@
                           </div>
                           <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <strong>Tech Skills</strong>
+                              <strong>Technology</strong>
                             </h4>
-                             <ul>
-                              <li>Python, Typescript, Javascript, Node</li>
-                              <li>Django, Flusk, Vue, Angular</li>
-                              <li>SQL, Postgres-SQL, MongoDB, AZURE</li>
-                              <li>Jira, Bitbucket, Git, Confluence Trello</li>
-                            </ul>
+                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
+                              minima assumenda deleniti hic.</p>
                           </div>
                         </div>
                         <!--Grid row-->
@@ -83,15 +69,10 @@
                           </div>
                           <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <strong>Work Experience</strong>
+                              <strong>Finance</strong>
                             </h4>
-                            <ul>
-                              <li>Data Capture: Dept Of Health</li>
-                              <li>Data Quality Auditor/ Verification: PPECB</li>
-                              <li>Capa CITI: Java Developer Programe</li>
-                              <li>Software Developer: Compuscan & Experian</li> 
-                              <li>Data Science Intern: Akiba Digital</li> 
-                            </ul>
+                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam
+                              minima assumenda deleniti hic.</p>
                           </div>
                         </div>
                         <!--Grid row-->
@@ -102,61 +83,57 @@
                       <!--Grid column-->
                       <div class="col-md-5">
 
-                       <div class="row pb-4">
-                          <div class="col-2 col-lg-1">
-                            <i class="fas fas fa-phone purple-text fa-lg"></i>
-                          </div>
-                          <div class="col-10">
-                            <h4 class="font-weight-bold mb-4">
-                              <strong>Contact Numbers</strong>
-                            </h4>
-                    
-                        <span>My Cellphone Numbers</span>
-                  <br>
-                         <span><i class="fas fa-phone purple-text fa-sm"></i> + 276 8043 2221</span>
-                        <br/>
-                        <span><i class="fas fa-phone purple-text fa-sm"></i> + 277 8075 7794</span>
-                         <br>
-                        <span><i class="fas fa-envelope purple-text fa-sm"></i> maccoskuni@gmail.com</span>
-                        <br/>
-                        <span><i class="fas fa-envelope purple-text fa-sm"></i> makhoskun@outlook.com</span>
-                    
-                          </div>
-                        </div>
-  
-                    
-                        <div class="row pb-4">
-                          <div class="col-2 col-lg-1">
-                            <i class="fas fa-map-marker-alt purple-text fa-lg"></i>
-                          </div>
-                          <div class="col-10">
-                            <h4 class="font-weight-bold mb-4">
-                              <strong>Location</strong>
-                            </h4>
+                        <!--Grid row-->
+                        <div class="row pb-4 d-flex justify-content-center mb-4">
+
+                          <h4 class="mt-3 mr-4">
+                            <strong>Contact Me</strong>
+                          </h4>
+
+                          <div class="inline-ul text-center d-flex justify-content-center">
+                            <a class="p-2 m-2 fa-lg tw-ic">
+
+                             
                           
-                            
-                            <ul>
-                              <li>Cape Town,</li>
-                              <li>Durbanville</li>
-                              <li>7550</li>
-                            </ul>
-                            <span>I am available to work anywhere including </span>
+                         
+                      
+                              <!-- <i class="fab fa-twitter fa-lg indigo-text"></i> -->
+                            </a>
+                            <a class="p-2 m-2 fa-lg li-ic">
+                              <i class="fab fa-linkedin-in fa-lg indigo-text"> </i>
+                            </a>
+                            <a class="p-2 m-2 fa-lg ins-ic">
+                              <i class="fab fa-instagram fa-lg indigo-text"> </i>
+                            </a>
                           </div>
+
+                          <h4 class="mt-3 ml-4">
+                            <strong>or:</strong>
+                          </h4>
+
+                        </div>
+                   
+                        <div class="md-form">
+                          <i class="fas fa-user prefix"></i>
+                          <input type="text" id="orangeForm-name" class="form-control">
+                          <label for="orangeForm-name">Your name</label>
+                        </div>
+                        <div class="md-form">
+                          <i class="fas fa-envelope prefix"></i>
+                          <input type="text" id="orangeForm-email" class="form-control">
+                          <label for="orangeForm-email">Your email</label>
                         </div>
 
-                        <div class="row pb-4">
-                          <div class="col-2 col-lg-1">
-                            <i class="fas fa-envelope purple-text fa-lg"></i>
-                          </div>
-                          <div class="col-10">
-                            <h4 class="font-weight-bold mb-4">
-                              <strong>My Email Address</strong>
-                            </h4>
-                     
-                          </div>
+                        <div class="md-form">
+                          <i class="fas fa-lock prefix"></i>
+                          <input type="password" id="orangeForm-pass" class="form-control">
+                          <label for="orangeForm-pass">Your password</label>
                         </div>
 
-          
+                        <div class="text-center">
+                          <button class="btn btn-indigo btn-rounded mt-5">Sign up</button>
+                        </div>
+
                       </div>
                       <!--Grid column-->
 
@@ -173,17 +150,12 @@
             <!--Grid row-->
 
           </div>
-
-
-
-
-
-
         </div>
     </section>
     <!--Intro Section-->
 
   </header>
+  <!--Main Navigation-->
 </template>
 
 <style scoped>
@@ -212,7 +184,12 @@
 
 <style lang="css" scoped>
 
- 
+    html,
+    body,
+    header,
+    .view {
+      height: 100%;
+    }
 
     @media (min-width: 851px) and (max-width: 1440px) {
       html,
@@ -255,6 +232,14 @@
       background-size: cover;
     }
 
+    .top-nav-collapse {
+      background-color: #3f51b5 !important;
+    }
+
+    .navbar:not(.top-nav-collapse) {
+      background: transparent !important;
+    }
+
     @media (max-width: 768px) {
       .navbar:not(.top-nav-collapse) {
         background: #3f51b5 !important;
@@ -264,6 +249,12 @@
         .navbar:not(.top-nav-collapse) {
             background: #3f51b5!important;
         }
+    }
+
+    .rgba-gradient {
+      background: -webkit-linear-gradient(98deg, rgba(22, 91, 231, 0.5), rgba(255, 32, 32, 0.5) 100%);
+      background: -webkit-gradient(linear, 98deg, from(rgba(22, 91, 231, 0.5)), to(rgba(255, 32, 32, 0.5)));
+      background: linear-gradient(to 98deg, rgba(22, 91, 231, 0.5), rgba(255, 32, 32, 0.5) 100%);
     }
 
     .card {

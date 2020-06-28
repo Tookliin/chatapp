@@ -10,9 +10,6 @@
     <!--Intro Section-->
     <section class="view intro-2">
         <div class="mask rgba-gradient">
-
-
-          
           <div class="container h-100 d-flex justify-content-center align-items-center">
 
             <!--Grid row-->
@@ -173,17 +170,12 @@
             <!--Grid row-->
 
           </div>
-
-
-
-
-
-
         </div>
     </section>
     <!--Intro Section-->
 
   </header>
+  <!--Main Navigation-->
 </template>
 
 <style scoped>
@@ -212,7 +204,12 @@
 
 <style lang="css" scoped>
 
- 
+    html,
+    body,
+    header,
+    .view {
+      height: 100%;
+    }
 
     @media (min-width: 851px) and (max-width: 1440px) {
       html,
@@ -254,6 +251,8 @@
       background: url("http://mdbootstrap.com/img/Photos/Others/forest1.jpg")no-repeat center center;
       background-size: cover;
     }
+
+
 
     @media (max-width: 768px) {
       .navbar:not(.top-nav-collapse) {

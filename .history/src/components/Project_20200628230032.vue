@@ -10,9 +10,6 @@
     <!--Intro Section-->
     <section class="view intro-2">
         <div class="mask rgba-gradient">
-
-
-          
           <div class="container h-100 d-flex justify-content-center align-items-center">
 
             <!--Grid row-->
@@ -173,17 +170,12 @@
             <!--Grid row-->
 
           </div>
-
-
-
-
-
-
         </div>
     </section>
     <!--Intro Section-->
 
   </header>
+  <!--Main Navigation-->
 </template>
 
 <style scoped>

@@ -10,9 +10,6 @@
     <!--Intro Section-->
     <section class="view intro-2">
         <div class="mask rgba-gradient">
-
-
-          
           <div class="container h-100 d-flex justify-content-center align-items-center">
 
             <!--Grid row-->
@@ -173,17 +170,12 @@
             <!--Grid row-->
 
           </div>
-
-
-
-
-
-
         </div>
     </section>
     <!--Intro Section-->
 
   </header>
+  <!--Main Navigation-->
 </template>
 
 <style scoped>
@@ -209,68 +201,3 @@
  
 
 </script>
-
-<style lang="css" scoped>
-
- 
-
-    @media (min-width: 851px) and (max-width: 1440px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 850px;
-      }
-    }
-
-    @media (min-width: 800px) and (max-width: 850px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 1000px;
-      }
-    }
-
-    @media (min-width: 451px) and (max-width: 740px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 1200px;
-      }
-    }
-
-    @media (max-width: 450px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 1400px;
-      }
-    }
-
-    .intro-2 {
-      background: url("http://mdbootstrap.com/img/Photos/Others/forest1.jpg")no-repeat center center;
-      background-size: cover;
-    }
-
-    @media (max-width: 768px) {
-      .navbar:not(.top-nav-collapse) {
-        background: #3f51b5 !important;
-      }
-    }
-    @media (min-width: 800px) and (max-width: 850px) {
-        .navbar:not(.top-nav-collapse) {
-            background: #3f51b5!important;
-        }
-    }
-
-    .card {
-      background-color: rgba(255, 255, 255, 0.85);
-    }
-
-    h6 {
-      line-height: 1.7;
-    }
-</style>
