@@ -29,8 +29,8 @@
               >
             </li> -->
             <li class="nav-item">
-              <router-link class="nav-link" style="color:black; font-weight: bold;" to="/projects"
-                >My-work</router-link
+              <router-link class="nav-link" style="color:grey; font-weight: bold;" to="/projects"
+                >Work & Projects</router-link
               >
             </li>
 

@@ -82,18 +82,15 @@ header {
 
 /* Pages Start Here */
 
-
-.main{
-  background-image: url("http://mdbootstrap.com/img/Photos/Others/forest1.jpg");
+.contact{
+  background-image: linear-gradient( 90.4deg,  rgba(255,220,163,1) 21.2%, rgba(129,255,239,1) 90.7% );
   background-size: cover;
     height: 100%;
-
-    
 
 }
 
 .projects {
-  background-image: radial-gradient( circle 343px at 46.3% 47.5%,  rgba(242,242,242,1) 0%, rgba(241,241,241,1) 72.9% );
+  background-image: url("http://mdbootstrap.com/img/Photos/Others/forest1.jpg");
   background-size: cover;
   height: 100%;
 

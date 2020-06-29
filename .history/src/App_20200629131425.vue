@@ -29,7 +29,7 @@
               >
             </li> -->
             <li class="nav-item">
-              <router-link class="nav-link" style="color:black; font-weight: bold;" to="/projects"
+              <router-link class="nav-link" style="color:black; font-weight: ;" to="/projects"
                 >My-work</router-link
               >
             </li>

@@ -7,13 +7,15 @@
             <div class="container flex-center">
               <div class="white-text text-center">
                 <h2>
-                  Project
+                  This Navbar is fixed
                 </h2>
                 <h4>
-                 Page coming soon
+                  It will always stay visible on the top, even when you scroll
+                  down
                 </h4>
                 <p>
-                 Dude I am busy
+                  Full page intro with background image will be always displayed
+                  in full screen mode, regardless of device
                 </p>
               </div>
             </div>

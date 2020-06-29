@@ -1,6 +1,6 @@
 <template>
     <div>
-      <div class="view intro-2" style="height: 100vh" >
+      <div class=" intro-2" style="height: 100vh" >
         <div class="full-bg-img">
           <div class="mask rgba-purple-light">
             <div class="container flex-center">
@@ -171,23 +171,52 @@
         </div>
       </div>
 
-    <section class="main" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="main intro-2" >
         <div class="mask rgba-gradient">
+
+
+
           <div class="container h-100 d-flex justify-content-center align-items-center">
+
+            <!--Grid row-->
             <div class="row  pt-5 mt-3">
+
               <!--Grid column-->
               <div class="col-md-12">
+
                 <div class="card">
                   <div class="card-body">
+
                     <h2 class="font-weight-bold my-4 text-center mb-5 mt-4 font-weight-bold">
                       <strong>Get in touch</strong>
                     </h2>
                     <hr>
 
-                  <div class="container py-4">
-                  <div class="row">
+   
+
+
+  <div class="container py-4">
+ 
+  <div class="row">
     
-                  <div class="col-6 col-md-4">
+     <div class="col-6 col-md-4">
                          
                           
                             <h4 class="font-weight-bold mb-4">
@@ -239,15 +268,16 @@
               <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-6">
-                          
-                          <div >
+                           <div class="col-2 col-lg-1">
+                            <i class="fas fas fa-phone purple-text fa-lg"></i>
+                          </div>
+                          <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <i class="fas fas fa-phone purple-text fa-sm"></i>
-                              <strong class="ml-2">Contact Numbers</strong>
+                              <strong>Contact Numbers</strong>
                             </h4>
                     
-                      
-                  
+                        <span>My Cellphone Numbers</span>
+                  <br>
                          <span><i class="fas fa-phone purple-text fa-sm"></i> + 276 8043 2221</span>
                         <br/>
                         <span><i class="fas fa-phone purple-text fa-sm"></i> + 277 8075 7794</span>
@@ -259,9 +289,10 @@
                           </div>
                    </div>
 
-
-                    <div class="col-sm-6">
-                        
+                    <div class="col-6">
+                        <div class="col-2 col-lg-1">
+                            <i class="fas fa-map-marker-alt purple-text fa-lg"></i>
+                          </div>
                           <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
                               <strong>Location</strong>

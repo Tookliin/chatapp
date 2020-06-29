@@ -83,12 +83,15 @@ header {
 /* Pages Start Here */
 
 
-.main{
+.intro-2{
   background-image: url("http://mdbootstrap.com/img/Photos/Others/forest1.jpg");
   background-size: cover;
-    height: 100%;
 
-    
+}
+.contact{
+  background-image: linear-gradient( 90.4deg,  rgba(255,220,163,1) 21.2%, rgba(129,255,239,1) 90.7% );
+  background-size: cover;
+    height: 100%;
 
 }
 

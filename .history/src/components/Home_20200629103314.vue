@@ -171,25 +171,52 @@
         </div>
       </div>
 
-    <section class="main" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="main intro-2" >
         <div class="mask rgba-gradient">
+
+
+
           <div class="container h-100 d-flex justify-content-center align-items-center">
+
+            <!--Grid row-->
             <div class="row  pt-5 mt-3">
+
               <!--Grid column-->
               <div class="col-md-12">
+
                 <div class="card">
                   <div class="card-body">
+
                     <h2 class="font-weight-bold my-4 text-center mb-5 mt-4 font-weight-bold">
                       <strong>Get in touch</strong>
                     </h2>
                     <hr>
 
-                  <div class="container py-4">
-                  <div class="row">
+
+  <div class="container py-4">
+ 
+  <div class="row">
     
-                  <div class="col-6 col-md-4">
+     <div class="col-md-auto">
                          
-                          
+                          <div class="col">
                             <h4 class="font-weight-bold mb-4">
                                <i class="fas fa-university indigo-text fa-md "></i>
                               <strong class="ml-2">Education</strong>
@@ -202,14 +229,14 @@
                               <li>Software Engineering</li>
                              
                             </ul>
-                         
+                          </div>
     </div>
 
-    <div class="col-6 col-md-4">
-          
+    <div class="col-md-auto">
+          <div class="col">
                             <h4 class="font-weight-bold mb-4">
                                <i class="fas fa-desktop deep-purple-text fa-md"></i>
-                              <strong class="ml-3">Tech Skills</strong>
+                              <strong>Tech Skills</strong>
                             </h4>
                              <ul>
                               <li>Python, Typescript, Javascript, Node</li>
@@ -217,12 +244,58 @@
                               <li>SQL, Postgres-SQL, MongoDB, AZURE</li>
                               <li>Jira, Bitbucket, Git, Confluence Trello</li>
                             </ul>
-                        
+                          </div>
     </div>
-    <div class="col-6 col-md-4">
-          
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+</div>
+
+
+
+                    <!--Grid row-->
+                    <div class="row mt-5">
+     
+
+                      <!--Grid column-->
+                      <div class="col-md-6 ml-lg-5 ml-md-3">
+
+                        <!--Grid row-->
+                        <div class="row pb-4">
+                          <div class="col-2 col-lg-1">
+                            <i class="fas fa-university indigo-text fa-lg"></i>
+                          </div>
+                          <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <i class="fas fa-money-bill-alt purple-text fa-sm"></i>
+                              <strong>Education</strong>
+                            </h4>
+                            <ul>
+                              <li>I studied Information Technology</li>
+                               <li>Project Management & Business Admin</li>
+                              <li>I Did online courses with udemy including,</li>
+                              <li>Data Science, Complete Bootcamp </li>
+                              <li>Software Engineering</li>
+                             
+                            </ul>
+                          </div>
+                        </div>
+                        <!--Grid row-->
+
+                        <!--Grid row-->
+                        <div class="row pb-4">
+                        
+                     
+                        </div>
+                        <!--Grid row-->
+
+                        <!--Grid row-->
+                        <div class="row pb-4">
+                          <div class="col-2 col-lg-1">
+                            <i class="fas fa-money-bill-alt purple-text fa-lg"></i>
+                          </div>
+                          <div class="col-10">
+                            <h4 class="font-weight-bold mb-4">
                               <strong>Work Experience</strong>
                             </h4>
                             <ul>
@@ -232,22 +305,27 @@
                               <li>Software Developer: Compuscan & Experian</li> 
                               <li>Data Science Intern: Akiba Digital</li> 
                             </ul>
-                         
-    </div>
-  </div>
-</div>
-              <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-6">
-                          
-                          <div >
+                          </div>
+                        </div>
+                        <!--Grid row-->
+
+                      </div>
+                      <!--Grid column-->
+
+                      <!--Grid column-->
+                      <div class="col-md-5">
+
+                       <div class="row pb-4">
+                          <div class="col-2 col-lg-1">
+                            <i class="fas fas fa-phone purple-text fa-lg"></i>
+                          </div>
+                          <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
-                              <i class="fas fas fa-phone purple-text fa-sm"></i>
-                              <strong class="ml-2">Contact Numbers</strong>
+                              <strong>Contact Numbers</strong>
                             </h4>
                     
-                      
-                  
+                        <span>My Cellphone Numbers</span>
+                  <br>
                          <span><i class="fas fa-phone purple-text fa-sm"></i> + 276 8043 2221</span>
                         <br/>
                         <span><i class="fas fa-phone purple-text fa-sm"></i> + 277 8075 7794</span>
@@ -257,11 +335,13 @@
                         <span><i class="fas fa-envelope purple-text fa-sm"></i> makhoskun@outlook.com</span>
                     
                           </div>
-                   </div>
-
-
-                    <div class="col-sm-6">
-                        
+                        </div>
+  
+                    
+                        <div class="row pb-4">
+                          <div class="col-2 col-lg-1">
+                            <i class="fas fa-map-marker-alt purple-text fa-lg"></i>
+                          </div>
                           <div class="col-10">
                             <h4 class="font-weight-bold mb-4">
                               <strong>Location</strong>
@@ -275,18 +355,75 @@
                             </ul>
                             <span>I am available to work anywhere including </span>
                           </div>
+                        </div>
+
+                        <div class="row pb-4">
+                          <div class="col-2 col-lg-1">
+                            <i class="fas fa-envelope purple-text fa-lg"></i>
+                          </div>
+                          <div class="col-10">
+                            <h4 class="font-weight-bold mb-4">
+                              <strong>My Email Address</strong>
+                            </h4>
+                     
+                          </div>
+                        </div>
+
+          
+                      </div>
+                      <!--Grid column-->
+
                     </div>
-                </div>
-              </div>
+                    <!--Grid row-->
+
                   </div>
                 </div>
+
               </div>
+              <!--Grid column-->
+
             </div>
+            <!--Grid row-->
 
           </div>
 
         </div>
     </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+      <div class="contact intro-2" style="height: 130vh">
+        <div class="full-bg-img">
+          <div class="mask ">
+            <div class="container flex-center">
+              <div class="white-text text-center py-4">
+                <h2 class="text-center text-uppercase font-weight-bold pt-3 mt-3" style="color:black; ">Contact Me</h2>
+                  <p class="section-description mt-3 mb-3" style="color:black;">I have put some of the projects I worked on at Compuscan and few projects for my clients</p>
+                  
+                  
+                  
+                  
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
     </div>
 </template>
 <script>

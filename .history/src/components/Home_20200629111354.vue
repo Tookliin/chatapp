@@ -246,8 +246,8 @@
                               <strong class="ml-2">Contact Numbers</strong>
                             </h4>
                     
-                      
-                  
+                        <span>My Cellphone Numbers</span>
+                  <br>
                          <span><i class="fas fa-phone purple-text fa-sm"></i> + 276 8043 2221</span>
                         <br/>
                         <span><i class="fas fa-phone purple-text fa-sm"></i> + 277 8075 7794</span>
