@@ -43,13 +43,13 @@
     <div class="">
        
 
-       <!-- <router-link
+       <router-link
                   type="button"
                     class="btn "
-                    style="background-color: #F9F9F9;"
+                    style="background-color: #FBB040;"
                     to="contact"
                   >Get in touch😋
-    <span class="ml-2">&rarr;</span></router-link> -->
+    <span class="ml-2">&rarr;</span></router-link>
     </div>
       </mdb-navbar-toggler>
     </mdb-navbar>

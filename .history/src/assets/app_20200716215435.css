@@ -1,0 +1,80 @@
+.view {
+  background-size: cover;
+    height: 100%;
+  }
+ 
+  .mask{
+    background-color: 
+      #FF7A8A;
+   
+  }
+
+  .navbar {
+    background-color: transparent;
+}
+
+
+.top-nav-collapse {
+    background-color:#113A5D;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+  .navbar-brand{
+    font-size: 150%;
+    font-weight: bold;
+   
+  }
+
+  .fab{
+    size: 80px;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    
+  }
+
+  .navbar .dropdown-menu a:hover {
+    color: inherit !important;
+  }
+
+
+
+header {
+  min-height: 80vh;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translateY(-50%);
+  color: beige;
+}
+
+.text-box h1 {
+  font-family: cursive;
+  font-size: 5rem;
+}
+
+.text-box p {
+  font-size: 2rem;
+  font-weight: lighter;
+}
+.submit {
+  color: var(--dark);
+}
+
+.container-fluid {
+  background-image: linear-gradient(
+    171.8deg,
+    rgba(5, 111, 146, 1) 13.5%,
+    rgba(6, 57, 84, 1) 78.6%
+  );
+}
+

@@ -18,7 +18,7 @@
                 </p>
 <div class="container">
                 <div class="row justify-content-center">
-    <div class="col-4">
+    <div class="col-6">
        <router-link
                   type="button"
                     class="btn "
@@ -28,8 +28,8 @@
     <span class="ml-2">&rarr;</span></router-link>
     </div>
 
-    <div class="col-4">
-        <a href="#" class="btn btn-outline-white btn-md waves-effect" role="button"><i class="fas fa-download mr-2"></i>Download CV</a>
+    <div class="col-6">
+        <a href="#" class="btn btn-outline-white btn-md waves-effect" role="button"><i class="fas fa-download mr-2"></i>Download</a>
                   
     </div>
   </div>
@@ -224,6 +224,7 @@
           </div>
         </div>
     </div>
+     
 
     <div class="row">
       <div class="col-md-6 mb-5">
@@ -294,6 +295,7 @@
           </div>
           </div>
           </div>
+<!-- <button type="button" class="btn btn-orange btn-rounded mx-0">VIEW MORE</button> -->
         </div>
         
       </div>

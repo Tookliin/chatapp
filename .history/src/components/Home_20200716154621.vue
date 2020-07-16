@@ -16,7 +16,7 @@
                 <p class="py-3">
                   I love innovating, creating and finding solutions to simplify everyday human's life.
                 </p>
-<div class="container">
+
                 <div class="row justify-content-center">
     <div class="col-4">
        <router-link
@@ -29,11 +29,11 @@
     </div>
 
     <div class="col-4">
-        <a href="#" class="btn btn-outline-white btn-md waves-effect" role="button"><i class="fas fa-download mr-2"></i>Download CV</a>
+        <a href="#" class="btn btn-outline-white btn-md waves-effect" role="button"><i class="fas fa-download mr-2"></i>Download</a>
                   
     </div>
   </div>
-</div>             
+                
                  
 
 
@@ -224,6 +224,7 @@
           </div>
         </div>
     </div>
+     
 
     <div class="row">
       <div class="col-md-6 mb-5">
@@ -294,6 +295,7 @@
           </div>
           </div>
           </div>
+<!-- <button type="button" class="btn btn-orange btn-rounded mx-0">VIEW MORE</button> -->
         </div>
         
       </div>

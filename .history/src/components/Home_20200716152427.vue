@@ -12,29 +12,19 @@
                  Software developer, Data Analysis and Project Management
                     skills
                 </h4>
-                
                 <p class="py-3">
                   I love innovating, creating and finding solutions to simplify everyday human's life.
                 </p>
-<div class="container">
-                <div class="row justify-content-center">
-    <div class="col-4">
-       <router-link
+                
+                  <router-link
                   type="button"
-                    class="btn "
-                    style="background-color: #F9F9F9;"
+                    class="btn btn-default btn-rounded"
+                    style="background-color: #FBB040;"
                     to="contact"
-                  >Get in touch😋
-    <span class="ml-2">&rarr;</span></router-link>
-    </div>
-
-    <div class="col-4">
-        <a href="#" class="btn btn-outline-white btn-md waves-effect" role="button"><i class="fas fa-download mr-2"></i>Download CV</a>
-                  
-    </div>
-  </div>
-</div>             
-                 
+                  >
+                    Hire Me 😋
+                    <span class="ml-2">&rarr;</span></router-link
+                  >
 
 
                   <div class="container py-3">
@@ -172,7 +162,7 @@
             <h6 class="font-weight-bold">CiTi</h6>
             <span>Java Developer Leaner</span>
             <p class="py-2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium eaque ipsa doloremque laudantium.</p>
-            
+             <a class="btn btn-amber btn-md ml-0" href="#" role="button">Play the game<i class="fas fa-trophy ml-2"></i></a>
           </div>
         </div>
       </div>
@@ -224,6 +214,7 @@
           </div>
         </div>
     </div>
+     
 
     <div class="row">
       <div class="col-md-6 mb-5">
@@ -294,6 +285,7 @@
           </div>
           </div>
           </div>
+<!-- <button type="button" class="btn btn-orange btn-rounded mx-0">VIEW MORE</button> -->
         </div>
         
       </div>

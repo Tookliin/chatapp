@@ -39,17 +39,12 @@
      
 
         </mdb-navbar-nav>
-  
     <div class="">
-       
-
-       <!-- <router-link
-                  type="button"
-                    class="btn "
-                    style="background-color: #F9F9F9;"
-                    to="contact"
-                  >Get in touch😋
-    <span class="ml-2">&rarr;</span></router-link> -->
+       <router-link
+              class="btn btn-amber btn-md ml-0"
+              href="#" role="button">
+                   <a >Play the game<i class="fas fa-trophy ml-2"></i>
+                   </a>    
     </div>
       </mdb-navbar-toggler>
     </mdb-navbar>

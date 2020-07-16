@@ -115,8 +115,26 @@ header {
   /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% ); */
 }
 
+
+
+
+
+
+
+
+
+
+
 .contact-section .form .btn-floating {
   left: 3px;
+}
+
+
+.mask.rgba-gradient {
+  background: -webkit-linear-gradient(45deg,rgba(29,236,197,.7),rgba(91,14,214,.7) 100%);
+  background: -webkit-gradient(linear,45deg,from(rgba(29,236,197,.7)),to(rgba(91,14,214,.7)));
+  background: -o-linear-gradient(45deg,rgba(29,236,197,.7),rgba(91,14,214,.7) 100%);
+  background: linear-gradient(to 45deg,rgba(29,236,197,.7),rgba(91,14,214,.7) 100%);
 }
 
 .vie{
@@ -124,27 +142,6 @@ header {
   background-size: cover;
   height: 100%;
 }
-
-.dude{
-  background-image: url("../assets/images/a.png");
-  background-size: cover;
-}
-
-.dude2 {
-  background-image: url("../assets/images/b.png");
-  background-size: cover;
-}
-
-.dude3 {
-  background-image: url("../assets/images/c.png");
-  background-size: cover;
-}
-.card-body{
-  background-image: radial-gradient( circle farthest-corner at 10% 20%,
-    rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% );
-  margin: 0px 50px 0px 50px;
-}
-
 
 
 

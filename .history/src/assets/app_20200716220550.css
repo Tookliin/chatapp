@@ -115,6 +115,16 @@ header {
   /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% ); */
 }
 
+
+
+
+
+
+
+
+
+
+
 .contact-section .form .btn-floating {
   left: 3px;
 }
@@ -124,6 +134,13 @@ header {
   background-size: cover;
   height: 100%;
 }
+
+
+
+
+
+
+
 
 .dude{
   background-image: url("../assets/images/a.png");
