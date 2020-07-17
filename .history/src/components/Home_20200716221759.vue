@@ -227,18 +227,9 @@
 
     
 
-    <div class="row">
-      <div class="container">
-          <div class="row">
-            <div class="col-md-6 offset-md-3">
-               <h3 class="font-weight-bold text-center black-text ">Contact Me</h3>
-            </div>
-          </div>
-        </div>
-      <div class="col-md-6">
-         
+    <div class="row"  style="height: 50vh">
+      <div class="col-md-6 mb-5">
         <div class="vie">
-         
           <img src="https://mdbootstrap.com/img/illustrations/graphics(4).png" class="img-fluid" alt="smaple image">
         </div>
 
@@ -246,8 +237,8 @@
       <div class="col-md-6 d-flex align-items-center">
         <div>
           
-       <div class="white-dark text-center">
-                <h2 class="py-4">
+       <div class="white-dark text-center py-3">
+                <h2 class="py-5">
                  <span class="home-span teal-text mb-3"> Need Dev | </span>  Contact Me
                 </h2>
                 <div class="container mb-4">
@@ -268,7 +259,7 @@
 </div>
                 
               
-                  <div class="container py-2">
+                  <div class="container py-3">
               <div class="row justify-content-md-center ">
                 <div class="col col-lg-2">
                   <a class="nav-link" href="https://www.instagram.com/maco_skuni/" target="blank" >

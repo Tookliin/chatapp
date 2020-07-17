@@ -250,7 +250,7 @@
                 <h2 class="py-4">
                  <span class="home-span teal-text mb-3"> Need Dev | </span>  Contact Me
                 </h2>
-                <div class="container mb-4">
+                <div class="container mb-2">
   <div class="row">
     <div class="col-sm-5">
       <span><i class="fas fa-phone black-text fa-sm"></i> + 276 8043 2221</span>

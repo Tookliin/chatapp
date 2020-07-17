@@ -268,7 +268,7 @@
 </div>
                 
               
-                  <div class="container py-2">
+                  <div class="container py-3">
               <div class="row justify-content-md-center ">
                 <div class="col col-lg-2">
                   <a class="nav-link" href="https://www.instagram.com/maco_skuni/" target="blank" >

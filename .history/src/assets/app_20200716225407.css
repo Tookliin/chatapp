@@ -5,7 +5,7 @@
  
   .mask{
    background-attachment: fixed;
-   background-image:  url("../assets/images/py.jpg");
+   background-image:  url("../assets/images/py2.jpg");
    background-size: cover;
   height: 100%;
    
@@ -100,8 +100,6 @@ header {
 
 
 .work{
-  background-image:  url("../assets/images/py2.jpg");
-  background-size: cover;
   background-color: 
   #FF7A8A;
   /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% ); */
@@ -112,10 +110,9 @@ header {
 }
 
 .vie{
-/*   
-  background-image: radial-gradient( circle 343px at 46.3% 47.5%,  rgba(242,242,242,1) 0%, rgba(245, 241, 241, 0.712) 72.9% ); */
+  background-image: radial-gradient( circle 343px at 46.3% 47.5%,  rgba(242,242,242,1) 0%, rgba(245, 241, 241, 0.712) 72.9% );
   background-size: cover;
-  height: 90%;
+  height: 100%;
 }
 
 .dude{

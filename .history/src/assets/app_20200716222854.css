@@ -4,10 +4,8 @@
   }
  
   .mask{
-   background-attachment: fixed;
-   background-image:  url("../assets/images/py.jpg");
-   background-size: cover;
-  height: 100%;
+    background-color: 
+      #FF7A8A;
    
   }
 
@@ -72,8 +70,20 @@ header {
   color: var(--dark);
 }
 
+.container-fluid {
+  background-image: linear-gradient(
+    171.8deg,
+    rgba(5, 111, 146, 1) 13.5%,
+    rgba(6, 57, 84, 1) 78.6%
+  );
+}
 
-
+.card-container{
+  background-image: linear-gradient( 108.1deg,  rgba(167,220,225,1) 11.2%, rgba(217,239,242,1) 88.9% );
+}
+.my-card {
+  height: 450px;
+}
 .card-up{
   height:60px;
 }
@@ -100,8 +110,6 @@ header {
 
 
 .work{
-  background-image:  url("../assets/images/py2.jpg");
-  background-size: cover;
   background-color: 
   #FF7A8A;
   /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% ); */
@@ -112,10 +120,9 @@ header {
 }
 
 .vie{
-/*   
-  background-image: radial-gradient( circle 343px at 46.3% 47.5%,  rgba(242,242,242,1) 0%, rgba(245, 241, 241, 0.712) 72.9% ); */
+  background-image: url("../assets//images/code3.jpg");
   background-size: cover;
-  height: 90%;
+  height: 100%;
 }
 
 .dude{

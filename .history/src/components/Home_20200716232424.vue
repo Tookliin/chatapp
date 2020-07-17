@@ -228,13 +228,7 @@
     
 
     <div class="row">
-      <div class="container">
-          <div class="row">
-            <div class="col-md-6 offset-md-3">
-               <h3 class="font-weight-bold text-center black-text ">Contact Me</h3>
-            </div>
-          </div>
-        </div>
+    
       <div class="col-md-6">
          
         <div class="vie">
@@ -243,6 +237,13 @@
         </div>
 
       </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 offset-md-3">
+               <h3 class="font-weight-bold text-center black-text ">Work Experience</h3>
+            </div>
+          </div>
+        </div>
       <div class="col-md-6 d-flex align-items-center">
         <div>
           
@@ -268,7 +269,7 @@
 </div>
                 
               
-                  <div class="container py-2">
+                  <div class="container py-3">
               <div class="row justify-content-md-center ">
                 <div class="col col-lg-2">
                   <a class="nav-link" href="https://www.instagram.com/maco_skuni/" target="blank" >
