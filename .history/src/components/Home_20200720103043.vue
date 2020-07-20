@@ -225,15 +225,16 @@
 </div>
 
 
-<div class="container-fluid py-5 my-2 pt-3" >
-  <section>
+<div class="container-fluid py-5 my-2 pt-3">
+  <section class="">
     <div class="py-5">
       <div class="container">
         <div class="row align-items-center">
         <div class="col-lg-6 col-md-8 col-sm-12 mx-auto">
          <form srm class="mb-2" action="https://smartforms.dev/submit/5f153af38720a934045a1a74" method="POST" enctype="multipart/form-data">
           <h3 class="font-weight-bold pb-2">Contact Me</h3>
-          <p class="lead pt-2 mb-5">Need a Dev? get in touch with me. Please send me job details & attach copy. </p>
+          <p class="lead teal-text pt-2 mb-5">Need a Dev? get in touch with me. send me post info. call or email. </p>
+          <span class="black-text">Please send me job details & attach copy.</span>
            <div class="input-group mb-3 pb-2">
             <input type="text" class="form-control" placeholder="Enter your name" name="name" aria-label="Enter your name"
               aria-describedby="button-addon2">

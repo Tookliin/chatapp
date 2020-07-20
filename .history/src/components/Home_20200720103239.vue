@@ -225,8 +225,8 @@
 </div>
 
 
-<div class="container-fluid py-5 my-2 pt-3" >
-  <section>
+<div class="container-fluid py-5 my-2 pt-3">
+  <section class="">
     <div class="py-5">
       <div class="container">
         <div class="row align-items-center">

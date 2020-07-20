@@ -39,7 +39,7 @@
       </div>
 
 
-      <div class="col-md-6 col-xl-2">
+      <div class="col-md-6 col-xl-4">
         <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
         <p class="small grey-text">Workpoints Back-Office</p>
       </div>
@@ -50,7 +50,7 @@
           truth. Honoured peculiar families sensible up likewise by on in.</p>
       </div>
 
-       <div class="col-md-6 col-xl-2">
+       <div class="col-md-6 col-xl-4">
         <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
         <p class="small grey-text">AA Back-Office</p>
       </div>

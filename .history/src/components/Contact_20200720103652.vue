@@ -1,6 +1,6 @@
 <template>
-    <div style="height: 100vh" >
-  <section class="deep-blue-gradient" >
+    <div style="height: 100vh; background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/Work/full%20page/img%20(2).jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+  <section class="deep-blue-gradient">
     <div class=" rgba-deep-purple-light " style="height: 100vh">
       <div class="container py-5">
         <div class="row align-items-center py-5">

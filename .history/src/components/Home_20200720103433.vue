@@ -225,8 +225,8 @@
 </div>
 
 
-<div class="container-fluid py-5 my-2 pt-3" >
-  <section>
+<div class="container-fluid py-5 my-2 pt-3">
+  <section class="" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/Work/full%20page/img%20(2).jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <div class="py-5">
       <div class="container">
         <div class="row align-items-center">

@@ -217,23 +217,61 @@
       </div>
 
     </div>
+
+                </div>
+              </div>
+            </div>
           </div>
         </div>
+    </div>
+
+
+<!-- 
+<!-- <div class="container my-5">
+  <section class="dark-grey-text p-5 z-index-1">
+    <div class="row">
+      <div class="col-md-5 mb-4 mb-md-0">
+        <div class="view">
+          <img src="https://mdbootstrap.com/img/illustrations/undraw_Group_chat_unwm.svg" class="img-fluid" alt="smaple image">
+        </div>
+      </div>
+      <div class="col-md-7 mb-lg-0 mb-4">
+        <form class="" action="">
+          <h3 class="font-weight-bold my-3">Contact Me</h3>
+          <p class="text-muted mb-4 pb-2">Get in touch with send me an email and post details, or email to me. <span class="teal-text">maccoskuni@gmail.com | 068 043 2221</span></p>
+          <div class="input-group py-1">
+            <input type="email" class="form-control" placeholder="Enter your email address" aria-label="Enter your email address"
+              aria-describedby="button-addon2">
+            <div class="input-group-append">
+              <button class="submit btn btn-md btn-info rounded-right m-0 px-3 py-2 z-depth-0 waves-effect" type="submit" id="button-addon2">Button</button>
+            </div>
+          </div>
+          <textarea type="text" id="defaultFormMessageModalEx" placeholder="Write message" class="md-textarea form-control py-2"></textarea>
+          <small class="form-text black-text"><strong>* Leave your email addres to be notified first.</strong></small>
+          
+        </form>
       </div>
     </div>
-   </div>
-</div>
+  </section>
+</div> --> -->
 
 
-<div class="container-fluid py-5 my-2 pt-3" >
-  <section>
+
+
+
+
+
+
+
+<div class="container-fluid py-5 my-2 pt-3">
+  <section class="">
     <div class="py-5">
       <div class="container">
         <div class="row align-items-center">
         <div class="col-lg-6 col-md-8 col-sm-12 mx-auto">
          <form srm class="mb-2" action="https://smartforms.dev/submit/5f153af38720a934045a1a74" method="POST" enctype="multipart/form-data">
           <h3 class="font-weight-bold pb-2">Contact Me</h3>
-          <p class="lead pt-2 mb-5">Need a Dev? get in touch with me. Please send me job details & attach copy. </p>
+          <p class="lead pt-2 mb-5">Need a Dev get in touch send me post info. call or email. <span class="black-text">maccoskuni@gmail.com | 068 043 2221</span></p>
            <div class="input-group mb-3 pb-2">
             <input type="text" class="form-control" placeholder="Enter your name" name="name" aria-label="Enter your name"
               aria-describedby="button-addon2">
@@ -243,17 +281,16 @@
             <input type="email" class="form-control" placeholder="Enter your email address" name="email" aria-label="Enter your email address"
               aria-describedby="button-addon2">
           </div>
-          <!-- <div class="input-group mb-3 pb-2">
+          <div class="input-group mb-3 pb-2">
             
             <input type="file" class="form-control" placeholder="Submit File" name="file" aria-label="Submit file"
               aria-describedby="button-addon2">
            
-          </div> -->
-         
-        <textarea type="text" id="defaultFormMessageModalEx" placeholder="Write message" name="description" class="md-textarea form-control mb-3"></textarea>
-           <div class="input-group mb-3 pb-2">
-            <input type="file" placeholder="Document"  name="document" aria-label="Submit file" aria-describedby="button-addon2">
           </div>
+          <div class="input-group mb-3 pb-2">
+            <input type="file" class="form-control" placeholder="Document"  name="document" aria-label="Submit file" aria-describedby="button-addon2">
+          </div>
+        <textarea type="text" id="defaultFormMessageModalEx" placeholder="Write message" name="description" class="md-textarea form-control mb-3"></textarea>
             <div class="input-group-append mb-3">
               <button class="submit btn btn-md white-text btn-block waves-effect" type="submit" id="button-addon2">Submit</button>
             </div>

@@ -16,7 +16,7 @@
     <div class="row d-flex justify-content-center">
 
       <div class="col-md-6 col-xl-4">
-        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
+        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Software Developer Compuscan</a></h5>
         <p class="small grey-text">Encentivize Back-Office</p>
       </div>
 
@@ -28,8 +28,8 @@
 
 
       <div class="col-md-6 col-xl-4">
-        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
-        <p class="small grey-text">Houston Backend Engine</p>
+        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Web Development</a></h5>
+        <p class="small grey-text">PHP, MySQL, Laravel</p>
       </div>
 
       <div class="col-md-6">
@@ -39,20 +39,9 @@
       </div>
 
 
-      <div class="col-md-6 col-xl-2">
-        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
-        <p class="small grey-text">Workpoints Back-Office</p>
-      </div>
-
-      <div class="col-md-6">
-        <p class="text-muted mb-5 pb-2">So delightful up dissimilar by unreserved it connection frequently. Do an high room so in paid. Up on
-          cousin ye dinner should in. Sex stood tried walls manor truth shy and three his. Their to years so child
-          truth. Honoured peculiar families sensible up likewise by on in.</p>
-      </div>
-
-       <div class="col-md-6 col-xl-2">
-        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Compuscan</a></h5>
-        <p class="small grey-text">AA Back-Office</p>
+      <div class="col-md-6 col-xl-4">
+        <h5 class="font-weight-normal"><a class="dark-grey-text" href="#">Mobile App</a></h5>
+        <p class="small grey-text">Andriod, iOS</p>
       </div>
 
       <div class="col-md-6">
